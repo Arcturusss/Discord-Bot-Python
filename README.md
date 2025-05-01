@@ -48,8 +48,8 @@ Edit `config.json` to customize your bot:
 
 ## Commands
 
-### /restart
-### (prefix) ping
+> /restart
+> (prefix) ping
 
 
 
